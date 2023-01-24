@@ -19,19 +19,20 @@ I am a **Futter** Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   - [body_validate](https://pub.dev/packages/body_validate)
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/trushar-mistry-2b00171b1/)
   
-&nbsp;&nbsp;
+&nbsp;
 
 ### :telephone_receiver: Social :
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/TrusharMistry8)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/trushar-mistry-2b00171b1/)
 
-&nbsp;&nbsp;
+&nbsp;
 
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-&nbsp;&nbsp;
+&nbsp;
+
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trushar88&&langs_count=8&layout=compact&background=000000)](https://github.com/trushar88/github-readme-stats) 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Trushar88&theme=dark&background=000000)](https://git.io/streak-stats)
