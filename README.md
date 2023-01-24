@@ -24,7 +24,7 @@ I am a **Futter** Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="left"> <img src="https://img.shields.io/github/contributors/trushar88/awesome-github-profile-readme-templates.svg?color=green" alt="trushar88" />   <img src="https://komarev.com/ghpvc/?username=trushar88&label=Profile%20views&color=0e75b6&style=flat" alt="trushar88" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trushar88" alt="trushar88" /></a> </p>
+<p align="left"> <a href="https://github.com/Trushar88/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trushar88" alt="trushar88" /></a> </p>
 
 &nbsp;&nbsp;
 
