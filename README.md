@@ -2,11 +2,7 @@
 <h3 align="center">A passionate Flutter developer from India</h3>
 
 
-[![GitHub stars](https://img.shields.io/github/stars/trushar88/awesome-github-profile-readme-templates.svg?color=yellow)](https://github.com/Trushar88/)
-[![GitHub forks](https://img.shields.io/github/forks/trushar88/awesome-github-profile-readme-templates.svg?color=red)]([https://github.com/trushar88/awesome-github-profile-readme-templates/network](https://github.com/Trushar88/))
-[![GitHub contributors](https://img.shields.io/github/contributors/trushar88/awesome-github-profile-readme-templates.svg?color=green)]([https://github.com/trushar88/awesome-github-profile-readme-templates/network](https://github.com/Trushar88/))
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trushar88&label=Profile%20views&color=0e75b6&style=flat" alt="trushar88" /> </p>
+<p align="left"> <img src="https://img.shields.io/github/contributors/trushar88/awesome-github-profile-readme-templates.svg?color=green" alt="trushar88" />   <img src="https://komarev.com/ghpvc/?username=trushar88&label=Profile%20views&color=0e75b6&style=flat" alt="trushar88" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trushar88" alt="trushar88" /></a> </p>
 
