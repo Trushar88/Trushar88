@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trushar Mistry</h1>
-<h3 align="center">A passionate **Flutter** developer from India</h3>
+<h3 align="center">A passionate *Flutter* developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trushar88&label=Profile%20views&color=0e75b6&style=flat" alt="trushar88" /> </p>
 
