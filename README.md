@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trushar Mistry</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
-
+<p align="left"> <img src="https://user-images.githubusercontent.com/95899209/214269341-0a5fa358-7104-4229-9960-94c9cf1722af.png" alt="trushar88" /> </p>
 
 <p align="left"> <img src="https://img.shields.io/github/contributors/trushar88/awesome-github-profile-readme-templates.svg?color=green" alt="trushar88" />   <img src="https://komarev.com/ghpvc/?username=trushar88&label=Profile%20views&color=0e75b6&style=flat" alt="trushar88" /> </p>
 
