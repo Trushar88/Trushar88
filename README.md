@@ -33,6 +33,6 @@ I am a **Futter** Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 &nbsp;&nbsp;
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trushar88)](https://github.com/Trushar88/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trushar88&&langs_count=8&layout=compact&background=000000)](https://github.com/trushar88/github-readme-stats) 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Trushar88&theme=dark&background=000000)](https://git.io/streak-stats)
 
