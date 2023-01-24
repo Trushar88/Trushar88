@@ -40,5 +40,6 @@ I am a **Futter** Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Trushar88&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trushar88)](https://github.com/Trushar88/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Trushar88&theme=dark&background=000000)](https://git.io/streak-stats)
+
