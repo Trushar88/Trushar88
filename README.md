@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://user-images.githubusercontent.com/95899209/215399057-9468d719-50e6-4caf-a4f1-301682a4689c.png" alt="trushar88" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/95899209/215400762-cb5f491b-bca8-4de0-b1b6-b0575bf85de7.png" alt="trushar88" /> </p>
 <p align="left"> <img src="https://img.shields.io/github/contributors/trushar88/awesome-github-profile-readme-templates.svg?color=green" alt="trushar88" />   <img src="https://komarev.com/ghpvc/?username=trushar88&label=Profile%20views&color=0e75b6&style=flat" alt="trushar88" /> 
 
 ### :man_technologist: About Me :
